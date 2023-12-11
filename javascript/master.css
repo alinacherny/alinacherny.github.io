@@ -1,0 +1,611 @@
+#block2 {
+  background-color: #d3b5ff;
+  height: 690px;
+  width: 60%;
+  max-width: 100%;
+  float: right;
+  margin: auto;
+  border-radius: 35px;
+  margin-right: 20%;
+  margin-top: 5%;
+  font-style: bold;
+  text-align: center;
+  font-style: bold;
+  font-family: fantasy;
+  font-weight: lighter;
+  padding-left: 5%;
+  padding-right: 5%;
+  color: #636363;
+  border-width: 8px;
+  border-color: #2bb3a5;
+  border-style: solid;
+}
+#logo {
+  margin-left: 20%;
+}
+body {
+  background-color: #393737;
+}
+#block1 {
+  background-color: #d3b5ff;
+  height: 210px;
+  width: 30%;
+  float: left;
+  margin: auto;
+  border-radius: 35px;
+
+  margin-left: 20%;
+  margin-bottom: 20px;
+  text-align: center;
+  font-style: bold;
+  font-family: fantasy;
+  font-size: x-large;
+  max-width: 30%;
+  border-width: 8px;
+  border-color: #2bb3a5;
+  border-style: solid;
+}
+img {
+  width: 50%;
+}
+#col3 {
+  height: 100%;
+  width: 50%;
+  border-radius: 35px;
+  margin: auto;
+  padding-left: 05%;
+}
+#col4 {
+  background-color: #d3b5ff;
+  height: 540px;
+  width: 100%;
+  float: left;
+  margin: auto;
+  border-radius: 35px;
+  text-align: left;
+  padding-left: 5%;
+  padding-top: 5%;
+  padding-right: 5%;
+  color: #636363;
+  font-family: fantasy;
+  font-weight: lighter;
+
+  margin-left: 20%;
+  margin-bottom: 5%;
+  border-width: 8px;
+  border-color: #2bb3a5;
+  border-style: solid;
+}
+
+h1 {
+  font-size: 55px;
+  color: #393737;
+}
+h2 {
+  font-size: 55px;
+  text-align: center;
+  color: #393737;
+}
+h10 {
+  font-size: 30px;
+  color: #6527be;
+  margin: auto;
+  width: 95%;
+}
+
+hsponsor {
+  font-size: 30px;
+  color: aliceblue;
+  font-family: fantsasy;
+}
+
+hsex {
+  font-size: 25px;
+}
+.navbar {
+  align-content: center;
+  background: none;
+}
+.profiles {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.profiletitle {
+  font-size: 50px;
+  font-style: bold;
+  font-family: fantasy;
+  color: #d3b5ff;
+  margin-left: 650px;
+}
+
+#profilecol {
+  background-color: #d3b5ff;
+  height: 370px;
+  width: 33%;
+  border-radius: 35px;
+
+  margin-top: 5%;
+  margin-left: 15px;
+  margin-right: 15px;
+  text-align: center;
+  font-style: bold;
+  font-family: fantasy;
+  align-items: center;
+  align-items: center;
+}
+
+#profilecol2 {
+  background-color: #d3b5ff;
+  height: 370px;
+  width: 33%;
+  border-radius: 35px;
+
+  margin-top: 5%;
+  text-align: center;
+  font-style: bold;
+  font-family: fantasy;
+  align-items: center;
+  align-items: center;
+}
+
+#profilecol3 {
+  background-color: #d3b5ff;
+  height: 370px;
+  width: 33%;
+  border-radius: 35px;
+
+  margin-top: 5%;
+  margin-left: 15px;
+  margin-right: 15px;
+  text-align: center;
+  font-style: bold;
+  font-family: fantasy;
+  align-items: center;
+  align-items: center;
+}
+
+.btn {
+  text-decoration: none;
+  padding: 0.5rem;
+  color: #6527be;
+}
+
+#pfp2 {
+  float: center;
+}
+
+#personalcol {
+  background-color: #d3b5ff;
+  height: 400px;
+  width: 50%;
+  float: center;
+  margin: auto;
+  border-radius: 35px;
+  margin-top: 50px;
+  font-style: bold;
+  text-align: center;
+  font-style: bold;
+  font-family: fantasy;
+  font-size: 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#personalheader {
+  font-size: 30px;
+  color: #5a3f6e;
+}
+
+.fullname {
+  font-size: 40px;
+  font-size: 40px;
+  line-height: 80%;
+  margin-top: 20px;
+}
+
+.gamertag {
+  line-height: 50%;
+  line-height: 70%;
+  font-size: 20px;
+  color: #5a3f6e;
+  color: #393737;
+  font-family: fantasy;
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.favgame {
+  line-height: 90%;
+  font-style: bold;
+  font-family: fantasy;
+  font-size: 20px;
+  color: #5a3f6e;
+  font-weight: lighter;
+}
+
+.bio {
+  margin-top: 30px;
+  font-size: 20px;
+  color: #3d369e;
+  line-height: 100%;
+  color: #5a3f6e;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  font-weight: bolder;
+  margin-left: 75px;
+  margin-right: 75px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.bio2 {
+  font-size: 20px;
+  line-height: 100%;
+  color: #5a3f6e;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  font-weight: bolder;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#setupcol1 {
+  background-color: #d3b5ff;
+  height: 425px;
+  width: 30%;
+  margin: auto;
+  border-radius: 35px;
+  float: left;
+  top: 40px;
+  text-align: center;
+  font-style: bold;
+  font-family: fantasy;
+}
+
+#setupcol2 {
+  background-color: #d3b5ff;
+  height: 425px;
+  width: 30%;
+  margin: auto;
+  border-radius: 35px;
+  float: center;
+  top: 40px;
+  text-align: center;
+  font-style: bold;
+  font-family: fantasy;
+}
+
+#setupcol3 {
+  background-color: #d3b5ff;
+  height: 425px;
+  width: 30%;
+  margin: auto;
+  border-radius: 35px;
+  float: right;
+  top: 40px;
+  text-align: center;
+  font-style: bold;
+  font-family: fantasy;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.setupcaption1 {
+  font-size: 15px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.setuptitle {
+  font-size: 45px;
+  font-style: bold;
+  font-family: fantasy;
+  color: #d3b5ff;
+  margin-left: 480px;
+}
+
+.setupheader {
+  margin-top: 20px;
+  font-size: 20px;
+  align: center;
+  clear: left;
+}
+
+.setupheader2 {
+  margin-top: 20px;
+  font-size: 20px;
+  align: center;
+  clear: left;
+}
+
+.setuppic {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+  float: center;
+}
+
+.setupbio {
+  color: #5a3f6e;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-weight: bolder;
+}
+
+h4 {
+  font-size: 3rem;
+  color: hsl(204, 100%, 29%);
+  margin: 1em 0 0.5em;
+  top: 100px;
+  position: relative;
+  right: 55px;
+}
+
+h5 {
+  font-size: 3rem;
+  color: hsl(204, 100%, 29%);
+  margin: 1em 0 0.5em;
+  top: 100px;
+  position: relative;
+  right: 55px;
+}
+
+img {
+  float: left;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+}
+
+img {
+  float: left;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-column {
+  flex-direction: column;
+  width: 85%;
+}
+
+#logopfp {
+  background-color: #d3b5ff;
+  height: 200px;
+  width: 10%;
+  float: left;
+}
+
+#playlistcol1 {
+  overflow-y: scroll;
+  max-width: 30%;
+  background-color: #d3b5ff;
+  height: 450px;
+  width: 30%;
+  float: left;
+  border-radius: 35px;
+  margin-left: 60px;
+  top: 50px;
+  position: relative;
+  text-align: right;
+  font-style: bold;
+  font-family: fantasy;
+}
+
+#playlistcol2 {
+  overflow-y: scroll;
+  max-width: 30%;
+  background-color: #d3b5ff;
+  height: 450px;
+  width: 30%;
+  float: left;
+  border-radius: 35px;
+  margin-left: 50px;
+  top: 50px;
+  position: relative;
+  text-align: right;
+  font-style: bold;
+  font-family: fantasy;
+}
+
+#playlistcol3 {
+  overflow-y: scroll;
+  max-width: 30%;
+  background-color: #d3b5ff;
+  height: 450px;
+  width: 30%;
+  float: left;
+  border-radius: 35px;
+  margin-left: 50px;
+  margin-right: 50px;
+  top: 50px;
+  position: relative;
+  text-align: right;
+  font-style: bold;
+  font-family: fantasy;
+}
+
+.playlistuser {
+  color: white;
+  margin-top: -75px;
+}
+
+/*.flexbox-container{
+  color: black;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  display: flex;
+  height: 600px;
+  flex-wrap: wrap;
+  align-items: left;
+} 
+
+.flexbox-container{
+  margin-top: -50px;
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  align-items: left;
+}
+<<<<<<<<<<<<<<<<<<<<<<<<guys idk wtf im doing pls ignore this>>>>>>>>>>>>>>>>>>>>>>>>>> 
+*/
+
+.h13 {
+  color: purple;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 80px;
+  box-align: left;
+}
+
+.li {
+  color: #97deff;
+}
+
+.button1 {
+  background-color: none;
+  color: black;
+  border: 2px solid white;
+}
+
+.button1:hover {
+  background-color: #97deff;
+  color: white;
+}
+
+.recsong {
+  margin-left: 38%;
+  margin-top: 5%;
+  margin-right: 10%;
+  font-family: monospace;
+  font-style: bolder;
+  clear: left;
+  color: #97deff;
+  font-size: 30px;
+}
+
+.fname {
+  color: white;
+  clear: left;
+  font-size: 20px;
+  margin-left: 40%;
+  margin-right: 10%;
+  font-family: monospace;
+}
+
+.lname {
+  color: white;
+  clear: left;
+  font-size: 20px;
+  margin-left: 25%;
+  margin-right: 50%;
+  font-family: monospace;
+}
+
+.email {
+  color: white;
+  clear: left;
+  font-size: 20px;
+  margin-left: 40%;
+  margin-right: 10%;
+  font-family: monospace;
+}
+
+.sname {
+  color: white;
+  clear: left;
+  font-size: 20px;
+  margin-left: 40%;
+  margin-right: 10%;
+  font-family: monospace;
+}
+
+.aname {
+  color: white;
+  clear: left;
+  font-size: 20px;
+  margin-left: 20%;
+  margin-right: 10%;
+  font-family: monospace;
+}
+
+input[type="text"] {
+  width: 50%;
+  padding: 6px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.submit {
+  align: center;
+  float: center;
+  margin-left: 40%;
+  color: purple;
+  background-color: aquamarine;
+}
+
+
+div.scroll
+{
+Width-5px;
+Height-10 px;
+Overflow-x:scroll;
+background: aquamarine;
+}
+
+.nside{
+  float: left;
+  text-align: left;
+  margin-left: 10%;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+.cage{
+  clear: left;
+  text-align: left;
+  margin-left: 10%;
+  margin-top: 10%;
+  font-family: monospace;
+  font-weight: bolder;
+}
+
+.tame{
+  clear: left;
+  text-align: left;
+  margin-left: 10%;
+  margin-top: 10%;
+  float: left;
+  font-family: monospace;
+  font-weight: bolder;
+}
+
+.spotify{
+  font-size: 120%;
+  clear: right;
+  align: right;
+  margin-top: 10px;
+}
+
+
+
+input:invalid:required {
+  background-image: linear-gradient(to right, pink, aquamarine);
+}
+
+input:valid {
+  border: 2px solid black;
+}
