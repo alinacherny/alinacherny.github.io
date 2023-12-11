@@ -39,7 +39,7 @@ body {
   text-align: center;
   font-style: bold;
   font-family: fantasy;
-  font-size: x-large;
+  font-size: 1.5vw;
   max-width: 30%;
   border-width: 8px;
   border-color: #2bb3a5;
@@ -78,29 +78,29 @@ img {
 }
 
 h1 {
-  font-size: 55px;
+  font-size: 4vw;
   color: #393737;
 }
 h2 {
-  font-size: 55px;
+  font-size: 4vw;
   text-align: center;
   color: #393737;
 }
 #h10 {
-  font-size: 30px;
+  font-size: 3vw;
   color: #6527be;
   margin: auto;
   width: 95%;
 }
 
 #hsponsor {
-  font-size: 30px;
+  font-size: 4vw;
   color: aliceblue;
   font-family: fantsasy;
 }
 
 #hsex {
-  font-size: 25px;
+  font-size: 2vw;
 }
 .navbar {
   align-content: center;
@@ -112,7 +112,7 @@ h2 {
   width: 100%;
 }
 .profiletitle {
-  font-size: 50px;
+  font-size: 5vw;
   font-style: bold;
   font-family: fantasy;
   color: #d3b5ff;
@@ -187,20 +187,19 @@ h2 {
   text-align: center;
   font-style: bold;
   font-family: fantasy;
-  font-size: 2px;
+  font-size: 1vw;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
 #personalheader {
-  font-size: 30px;
+  font-size: 2vw;
   color: #5a3f6e;
 }
 
 .fullname {
-  font-size: 40px;
-  font-size: 40px;
+  font-size: 2vw;
   line-height: 80%;
   margin-top: 20px;
 }
@@ -208,11 +207,11 @@ h2 {
 .gamertag {
   line-height: 50%;
   line-height: 70%;
-  font-size: 20px;
+  font-size: 2vw;
   color: #5a3f6e;
   color: #393737;
   font-family: fantasy;
-  font-size: 20px;
+
   font-weight: lighter;
 }
 
@@ -220,19 +219,19 @@ h2 {
   line-height: 90%;
   font-style: bold;
   font-family: fantasy;
-  font-size: 20px;
+  font-size: 2vw;
   color: #5a3f6e;
   font-weight: lighter;
 }
 
 .bio {
   margin-top: 30px;
-  font-size: 20px;
+  font-size: 2vw;
   color: #3d369e;
   line-height: 100%;
   color: #5a3f6e;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 20px;
+ 
   font-weight: bolder;
   margin-left: 75px;
   margin-right: 75px;
@@ -241,11 +240,11 @@ h2 {
 }
 
 .bio2 {
-  font-size: 20px;
+  font-size: 2vw;
   line-height: 100%;
   color: #5a3f6e;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 20px;
+
   font-weight: bolder;
   margin-left: 100px;
   margin-right: 100px;
@@ -262,6 +261,7 @@ h2 {
   text-align: center;
   font-style: bold;
   font-family: fantasy;
+  font-size: 2vw;
 }
 
 #setupcol2 {
@@ -275,6 +275,7 @@ h2 {
   text-align: center;
   font-style: bold;
   font-family: fantasy;
+  font-size: 2vw;
 }
 
 #setupcol3 {
@@ -288,6 +289,7 @@ h2 {
   text-align: center;
   font-style: bold;
   font-family: fantasy;
+  font-size: 2vw;
 }
 
 .flex-row {
@@ -296,12 +298,12 @@ h2 {
   width: 100%;
 }
 .setupcaption1 {
-  font-size: 15px;
+  font-size: 1vw;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 .setuptitle {
-  font-size: 45px;
+  font-size: 5vw;
   font-style: bold;
   font-family: fantasy;
   color: #d3b5ff;
@@ -310,14 +312,14 @@ h2 {
 
 .setupheader {
   margin-top: 20px;
-  font-size: 20px;
+  font-size: 3vw;
   align: center;
   clear: left;
 }
 
 .setupheader2 {
   margin-top: 20px;
-  font-size: 20px;
+  font-size: 3vw;
   align: center;
   clear: left;
 }
@@ -333,14 +335,14 @@ h2 {
 .setupbio {
   color: #5a3f6e;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 15px;
+  font-size: 1vw;
   margin-left: 30px;
   margin-right: 30px;
   font-weight: bolder;
 }
 
 h4 {
-  font-size: 3rem;
+  font-size: 2vw;
   color: hsl(204, 100%, 29%);
   margin: 1em 0 0.5em;
   top: 100px;
@@ -349,7 +351,7 @@ h4 {
 }
 
 h5 {
-  font-size: 3rem;
+  font-size: 2vw;
   color: hsl(204, 100%, 29%);
   margin: 1em 0 0.5em;
   top: 100px;
@@ -388,52 +390,57 @@ img {
 }
 
 #playlistcol1 {
-  overflow-y: scroll;
+ 
   max-width: 30%;
   background-color: #d3b5ff;
   height: 5%;
   width: 30%;
   float: left;
   border-radius: 35px;
-  margin-left: 60px;
+  margin-left: 5%;
   top: 50px;
   position: relative;
   text-align: right;
   font-style: bold;
   font-family: fantasy;
+  font-size: 1vw;
 }
 
 #playlistcol2 {
-  overflow-y: scroll;
+  
   max-width: 30%;
   background-color: #d3b5ff;
   height: 5%;
   width: 30%;
   float: left;
   border-radius: 35px;
-  margin-left: 50px;
+  margin-left: 4%;
   top: 50px;
   position: relative;
   text-align: right;
   font-style: bold;
   font-family: fantasy;
+  font-size: 1vw;
+
 }
 
 #playlistcol3 {
-  overflow-y: scroll;
+ 
   max-width: 30%;
   background-color: #d3b5ff;
-  height: 450px;
+  height: 5%;
   width: 30%;
   float: left;
   border-radius: 35px;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 4%;
+  margin-right: 4%;
   top: 50px;
   position: relative;
   text-align: right;
   font-style: bold;
   font-family: fantasy;
+  font-size: 1vw;
+
 }
 
 .playlistuser {
@@ -464,7 +471,7 @@ img {
 .h13 {
   color: purple;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 20px;
+  font-size: 2vw;
   margin-top: 100px;
   margin-left: 100px;
   margin-right: 80px;
@@ -494,13 +501,13 @@ img {
   font-style: bolder;
   clear: left;
   color: #97deff;
-  font-size: 30px;
+  font-size: 3vw;
 }
 
 .fname {
   color: white;
   clear: left;
-  font-size: 20px;
+  font-size: 1.5vw;
   margin-left: 40%;
   margin-right: 10%;
   font-family: monospace;
@@ -509,7 +516,7 @@ img {
 .lname {
   color: white;
   clear: left;
-  font-size: 20px;
+  font-size: 1.5vw;
   margin-left: 25%;
   margin-right: 50%;
   font-family: monospace;
@@ -518,7 +525,7 @@ img {
 .email {
   color: white;
   clear: left;
-  font-size: 20px;
+  font-size: 1.5vw;
   margin-left: 40%;
   margin-right: 10%;
   font-family: monospace;
@@ -527,7 +534,7 @@ img {
 .sname {
   color: white;
   clear: left;
-  font-size: 20px;
+  font-size: 1.5vw;
   margin-left: 40%;
   margin-right: 10%;
   font-family: monospace;
@@ -536,7 +543,7 @@ img {
 .aname {
   color: white;
   clear: left;
-  font-size: 20px;
+  font-size: 1.5vw;
   margin-left: 20%;
   margin-right: 10%;
   font-family: monospace;
@@ -570,6 +577,8 @@ div.scroll {
   margin-left: 10%;
   font-family: monospace;
   font-weight: bold;
+  font-size: 1vw;
+
 }
 
 .cage {
@@ -579,6 +588,8 @@ div.scroll {
   margin-top: 10%;
   font-family: monospace;
   font-weight: bolder;
+  font-size: 1vw;
+
 }
 
 .tame {
@@ -589,10 +600,12 @@ div.scroll {
   float: left;
   font-family: monospace;
   font-weight: bolder;
+  font-size: 1vw;
+
 }
 
 .spotify {
-  font-size: 120%;
+  font-size: 2vw;
   clear: right;
   align: right;
   margin-top: 10px;
