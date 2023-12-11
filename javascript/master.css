@@ -1,6 +1,6 @@
 #block2 {
   background-color: #d3b5ff;
-  height: 760px;
+  height: 100%;
   width: 40%;
   max-width: 100%;
   float: right;
@@ -28,7 +28,7 @@ body {
 }
 #block1 {
   background-color: #d3b5ff;
-  height: 210px;
+  height: 50%;
   width: 30%;
   float: left;
   margin: auto;
@@ -57,7 +57,7 @@ img {
 }
 #col4 {
   background-color: #d3b5ff;
-  height: 550px;
+  height: 60%;
   width: 120%;
   float: left;
   margin: auto;
@@ -121,7 +121,7 @@ h2 {
 
 #profilecol {
   background-color: #d3b5ff;
-  height: 370px;
+  height: 200%;
   width: 33%;
   border-radius: 35px;
 
@@ -137,7 +137,7 @@ h2 {
 
 #profilecol2 {
   background-color: #d3b5ff;
-  height: 370px;
+  height: 100%;
   width: 33%;
   border-radius: 35px;
 
@@ -151,7 +151,7 @@ h2 {
 
 #profilecol3 {
   background-color: #d3b5ff;
-  height: 370px;
+  height: 100%;
   width: 33%;
   border-radius: 35px;
 
@@ -177,7 +177,7 @@ h2 {
 
 #personalcol {
   background-color: #d3b5ff;
-  height: 400px;
+  height: 150%;
   width: 50%;
   float: center;
   margin: auto;
@@ -253,7 +253,7 @@ h2 {
 
 #setupcol1 {
   background-color: #d3b5ff;
-  height: 425px;
+  height: 100%;
   width: 30%;
   margin: auto;
   border-radius: 35px;
@@ -266,7 +266,7 @@ h2 {
 
 #setupcol2 {
   background-color: #d3b5ff;
-  height: 425px;
+  height: 100%;
   width: 30%;
   margin: auto;
   border-radius: 35px;
@@ -279,7 +279,7 @@ h2 {
 
 #setupcol3 {
   background-color: #d3b5ff;
-  height: 425px;
+  height: 100%;
   width: 30%;
   margin: auto;
   border-radius: 35px;
@@ -391,7 +391,7 @@ img {
   overflow-y: scroll;
   max-width: 30%;
   background-color: #d3b5ff;
-  height: 450px;
+  height: 5%;
   width: 30%;
   float: left;
   border-radius: 35px;
@@ -407,7 +407,7 @@ img {
   overflow-y: scroll;
   max-width: 30%;
   background-color: #d3b5ff;
-  height: 450px;
+  height: 5%;
   width: 30%;
   float: left;
   border-radius: 35px;
