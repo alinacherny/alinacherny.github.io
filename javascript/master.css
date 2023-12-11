@@ -86,7 +86,7 @@ h2 {
   text-align: center;
   color: #393737;
 }
-h10 {
+#h10 {
   font-size: 30px;
   color: #6527be;
   margin: auto;
@@ -99,7 +99,7 @@ hsponsor {
   font-family: fantsasy;
 }
 
-hsex {
+#hsex {
   font-size: 25px;
 }
 .navbar {
